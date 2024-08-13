@@ -1,2 +1,2 @@
 # python
- print("Hello, to all over the world")
+ print"Hello, to all over the world")
